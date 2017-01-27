@@ -28,7 +28,6 @@
     "scheduledTime": "date",
     "sound": "string",
     "status": "string",
-    "title": "string",
     "urlArgs": ["string"]
   }
 }
